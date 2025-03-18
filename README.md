@@ -8,5 +8,3 @@
   + Visual Paradigm: for creating Use Case and Flowchart Diagram
   + Draw.io: for sample interface
   + MS Office: for documents and reports
-
-**Thanks for reading!!!
